@@ -6,3 +6,4 @@ spacy
 torch
 pydantic
 python-multipart
+SQLAlchemy
